@@ -20,7 +20,7 @@ b. If no one can create a straight line with their own mark and all the position
 
 ## Implementation Plan
 The implementation workflow for this project is as follows:
-![Flow Chart](images/flowchart.png)
+![Flow Chart](./Images/flowchart.png)
 
 ## Features
 - Implements a well styled board, X's and O's for the game.
@@ -41,13 +41,13 @@ Initial empty Board.
 ![X and O marks](./Images/markxo.png)
 Player 1's 'X' mark. Player 2's 'O' mark.
 
-![Hover effects x](images/hoverx.png)
-![Hover effects o](images/hovero.png)
+![Hover effects x](./Images/hoverx.png)
+![Hover effects o](./Images/hovero.png)
 The players' marks on hover.
 
-![O wins](images/Owins.png)
-![X wins](images/Xwins.png)
-![draw](images/draw.png)
+![O wins](./Images/Owins.png)
+![X wins](./Images/Xwins.png)
+![draw](./Images/draw.png)
 Result messages and the 'Restart' button.
 
 ## Future Scope
