@@ -34,20 +34,19 @@ Click on the below website to use the Game.
 [Play Tic-Tac-Toe]()
 
 ## Screenshots
-![Initial Board](./Images/board.png)
-<img scr="./Images/board.png" alt="Board">
+![Initial Board](./Images/board.png)  
 Initial empty Board.
 
-![X and O marks](./Images/markxo.png)
+![X and O marks](./Images/markxo.png)  
 Player 1's 'X' mark. Player 2's 'O' mark.
 
-![Hover effects x](./Images/hoverx.png)
-![Hover effects o](./Images/hovero.png)
+![Hover effects x](./Images/hoverx.png)  
+![Hover effects o](./Images/hovero.png)  
 The players' marks on hover.
 
-![O wins](./Images/Owins.png)
-![X wins](./Images/Xwins.png)
-![draw](./Images/draw.png)
+![O wins](./Images/Owins.png)  
+![X wins](./Images/Xwins.png)  
+![draw](./Images/draw.png)  
 Result messages and the 'Restart' button.
 
 ## Future Scope
