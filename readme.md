@@ -35,6 +35,7 @@ Click on the below website to use the Game.
 
 ## Screenshots
 ![Initial Board](images/board.png)
+<img scr="images/board.png">
 Initial empty Board.
 
 ![X and O marks](images/markxo.png)
