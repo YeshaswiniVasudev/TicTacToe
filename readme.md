@@ -20,7 +20,7 @@ b. If no one can create a straight line with their own mark and all the position
 
 ## Implementation Plan
 The implementation workflow for this project is as follows:
-![Flow Chart](images/flowchart.png)
+<img scr="./Images/flowchart.png" alt="Flow Chart">
 
 ## Features
 - Implements a well styled board, X's and O's for the game.
@@ -34,20 +34,19 @@ Click on the below website to use the Game.
 [Play Tic-Tac-Toe]()
 
 ## Screenshots
-![Initial Board](./Images/board.png)
-<img scr="./Images/board.png" alt="Board">
+<img scr="./Images/board.png" alt="Board" width="100" height="100">
 Initial empty Board.
 
-![X and O marks](images/markxo.png)
+<img scr="./Images/markxo.png" alt="X and O marks" width="100" height="100">
 Player 1's 'X' mark. Player 2's 'O' mark.
 
-![Hover effects x](images/hoverx.png)
-![Hover effects o](images/hovero.png)
+<img scr="./Images/hoverx.png" alt="Hover effects x" width="100" height="100">
+<img scr="./Images/hovero.png" alt="Hover effects o" width="100" height="100">
 The players' marks on hover.
 
-![O wins](images/Owins.png)
-![X wins](images/Xwins.png)
-![draw](images/draw.png)
+<img scr="./Images/Owins.png" alt="O wins" width="100" height="100">
+<img scr="./Images/Xwins.png" alt="X wins" width="100" height="100">
+<img scr="./Images/draw.png" alt="draw" width="100" height="100">
 Result messages and the 'Restart' button.
 
 ## Future Scope
