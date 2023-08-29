@@ -31,23 +31,24 @@ The implementation workflow for this project is as follows:
 
 ## Usage
 Click on the below website to use the Game.
-[Play Tic-Tac-Toe]()
+[Play Tic-Tac-Toe](https://yeshaswinivasudev.github.io/TicTacToe/)
 
 ## Screenshots
+Initial empty Board.  
 ![Initial Board](./Images/board.png)  
-Initial empty Board.
 
+Player 1's 'X' mark. Player 2's 'O' mark.  
 ![X and O marks](./Images/markxo.png)  
-Player 1's 'X' mark. Player 2's 'O' mark.
 
+The players' marks on hover.  
 ![Hover effects x](./Images/hoverx.png)  
 ![Hover effects o](./Images/hovero.png)  
-The players' marks on hover.
 
+Result messages and the 'Restart' button.  
 ![O wins](./Images/Owins.png)  
 ![X wins](./Images/Xwins.png)  
 ![draw](./Images/draw.png)  
-Result messages and the 'Restart' button.
+
 
 ## Future Scope
 - To implement an option to play against AI. 
