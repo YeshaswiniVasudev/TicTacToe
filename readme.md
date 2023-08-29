@@ -34,8 +34,8 @@ Click on the below website to use the Game.
 [Play Tic-Tac-Toe]()
 
 ## Screenshots
-![Initial Board](.\Images\board.png)
-<img scr=".\Images\board.png" alt="Board">
+![Initial Board](./Images/board.png)
+<img scr="./Images/board.png" alt="Board">
 Initial empty Board.
 
 ![X and O marks](images/markxo.png)
